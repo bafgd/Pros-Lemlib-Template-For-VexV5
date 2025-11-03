@@ -74,7 +74,7 @@ This project is meant to help everyone learn — contributions and feedback are 
 ## 📚 Helpful Resources
 
 - [PROS Documentation](https://pros.cs.purdue.edu/v5/)  
-- [LemLib Docs](https://lemlib.github.io/](https://lemlib.readthedocs.io/en/stable))  
+- [LemLib Docs](https://lemlib.readthedocs.io/en/stable)  
 - [VEX Forum](https://www.vexforum.com/)  
 - [C++ Reference](https://cplusplus.com/reference/)
 - [W3Schools C++](https://www.w3schools.com/cpp/default.asp)
