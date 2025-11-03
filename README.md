@@ -14,6 +14,21 @@ This template is designed to make it easier for students to:
 
 ---
 
+## 🗂 Where to Start
+
+The main template code is located here:
+[Open main.cpp](PROS-LEMLIB%20Template/src/main.cpp)
+
+Open this file in **Visual Studio Code** to see the full template, including:
+- Motor and sensor setup
+- Pneumatics example
+- LemLib drivetrain and controllers
+- Autonomous and driver control functions
+
+This file contains the latest version of PROS and Lemlib as of November 1st, 2025.
+
+---
+
 ## ⚙️ Requirements
 
 Before getting started, make sure you have the following installed:
