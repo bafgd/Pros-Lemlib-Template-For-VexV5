@@ -7,8 +7,7 @@
 /*
 ===========================================================
 VEX V5 Robot Program — PROS + LemLib Template
-Author: [Your Name]
-Date: [Insert Date]
+Author: Bhargav Trivedi
 ===========================================================
 📘 Overview:
 This template combines PROS (for low-level robot control)
