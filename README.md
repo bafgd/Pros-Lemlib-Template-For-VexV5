@@ -16,16 +16,19 @@ This template is designed to make it easier for students to:
 
 ## 🗂 Where to Start
 
-The main template code is located here:
+The code with comments is located here (will not compile):
 [Open main.cpp](PROS-LEMLIB%20Template/src/main.cpp)
 
-Open this file in **Visual Studio Code** to see the full template, including:
+Open this file in **Visual Studio Code** to see the full code with explanation, including:
 - Motor and sensor setup
 - Pneumatics example
 - LemLib drivetrain and controllers
 - Autonomous and driver control functions
 
 This file contains the latest version of PROS and Lemlib as of November 1st, 2025.
+
+The main template code without detailed comments is located here (will compile):
+[Open main.cpp](63310%20Main/src/main.cpp)
 
 ---
 
@@ -39,7 +42,11 @@ Before getting started, make sure you have the following installed:
 - **[LemLib](https://lemlib.github.io/)** (for motion control and odometry)  
 - **C++ toolchain:**  
   - **Windows:** [MSYS2](https://www.msys2.org/)  
+    - **Follow the instructions:** [YouTube-Video](https://www.youtube.com/watch?v=DMWD7wfhgNY)
+    - **No need to install CodeRunner**
   - **macOS:** Xcode Command Line Tools (`xcode-select --install`)
+    - **Follow the instructions:** [YouTube-Video](https://www.youtube.com/watch?v=v2_Pth8MrKA) 
+    - **No need to install CodeRunner**
 
 **Hardware:**   
 - ⚠️ You must have a working personal laptop (Windows or Mac) with administrator privileges.  
