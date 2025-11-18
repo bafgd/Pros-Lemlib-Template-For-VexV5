@@ -81,10 +81,10 @@ Before getting started, make sure you have the following installed:
 4. Navagate to the PROS extension on the left menu bar
 5. Open the "**Intergrated Terminal**"
     - There will be 2 lines of code you need to copy and paste into the terminal (appears at the **bottom**) (for convience, I have pasted them bellow. Run the 2 lines seperatly)
-        - ```C
+        - ```
         pros c add-depot LemLib https://raw.githubusercontent.com/LemLib/LemLib/depot/stable.json
         ```
-        - ```C
+        - ```
         pros c apply LemLib
         ```
     - After running those, paste this line to update everything
