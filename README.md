@@ -30,6 +30,8 @@ This file contains the latest version of PROS and Lemlib as of November 1st, 202
 The main template code without detailed comments is located here (will compile):
 [Open main.cpp](63310%20Main/src/main.cpp)
 
+Continue reading down this `README` file to see specific instructions on how to begin
+
 ---
 
 ## ⚙️ Requirements
@@ -71,7 +73,7 @@ Before getting started, make sure you have the following installed:
 
 ---
 
-## ✅ How to install/use PROS & LemLib
+## ✅ How to install/use PROS & LemLib ***(YOU MUST DO THIS STEP)***
 
 1. Navagate to the extensions page on VSCode (left menu bar, looks like 4 blocks)
 2. Search up PROS
@@ -88,7 +90,7 @@ Before getting started, make sure you have the following installed:
 
 ---
 
-## ✅ How to create a project
+## ✅ How to create a project ***(YOU MUST DO THIS STEP)***
 
 1. Navagate to the PROS extension on the left menu bar
 2. Find the button near the left side named "**Create Project**"
@@ -99,7 +101,7 @@ Before getting started, make sure you have the following installed:
 
 ---
 
-## ⛭ How to Upload
+## ⛭ How to upload code
 
 1. Navagate to the PROS extension on the left menu bar
 2. Find the button near the left side named "**Build & Upload**"
